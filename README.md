@@ -118,6 +118,3 @@ streamlit run app.py
 
 Then open the local Streamlit URL shown in the terminal.
 
-## Why This Project Works Well in a Portfolio
-
-This repository shows more than just a model notebook. It demonstrates modular project structure, automated model selection, business-focused interpretation, report generation, and a lightweight analytics application that someone can actually run and explore.
